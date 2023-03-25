@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int i, score[5], max;
-	int sum=0;
+	double sum=0;
 	cout << "Enter 5 score\n";
 	cin >> score[0];
 	max = score[0];
